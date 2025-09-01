@@ -16,7 +16,7 @@ A clean, practical workspace for algorithmic problem solving and system design p
   - [SystemDesign/INDEX.md](SystemDesign/INDEX.md)
   - Templates: [SystemDesign/Patterns/SYSTEM_DESIGN_PATTERN.md](SystemDesign/Patterns/SYSTEM_DESIGN_PATTERN.md), [SystemDesign/CaseStudies/CASE_STUDY_TEMPLATE.md](SystemDesign/CaseStudies/CASE_STUDY_TEMPLATE.md)
 
-## How to Use This Repo (No fluff)
+## How to Use This Repo
 
 - **If you’re doing DSA:**
   1. Read [DSA/Algorithms/ROADMAP.md](DSA/Algorithms/ROADMAP.md) to choose the next topic.
